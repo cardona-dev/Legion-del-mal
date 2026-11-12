@@ -34,8 +34,8 @@ El generador de oxígeno #2 opera al 60%. Con ambos generadores: capacidad para 
 
 La antena principal sufrió daño por micrometeoritos. Las comunicaciones con la Fortaleza Prohibida se cortan 2-5 veces al día. Los mensajes críticos se envían en ráfagas programadas cada 4 horas.
 ### Coordenadas
-Logitud:45
-Latitud:203
+Logitud:45.58
+Latitud:203.76
 
 ### Suministros
 
