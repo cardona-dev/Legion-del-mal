@@ -36,7 +36,7 @@ La antena principal sufrió daño por micrometeoritos. Las comunicaciones con la
 
 ### Suministros
 
-- Alimentos: 45 días (con 4 personas)
+- Alimentos: 45 días (con 5 personas)
 - Agua reciclada: estable
 - Combustible para retorno de emergencia: 1 viaje
 
