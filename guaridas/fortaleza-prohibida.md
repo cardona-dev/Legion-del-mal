@@ -55,23 +55,25 @@ La guarida principal de la Legión del Mal. Lex Luthor la construyó dentro de u
 - Torretas automáticas en niveles 1 y 2
 - Campo de fuerza de emergencia (aguanta 30 minutos contra Superman, teóricamente)
 - Sistema de autodestrucción (requiere 3 de 4 llaves del Consejo)
+- aumentar la seguridad en nuestra base
 
 ## Mantenimiento pendiente
 
-- [ ] Reparar la compuerta 7 del nivel 5 (atascada desde el último simulacro de evacuación)
-- [ ] Actualizar el firmware de las torretas — Brainiac reportó una vulnerabilidad
-- [ ] Revisar ventilación del nivel 3 (olor a azufre en el laboratorio de Doom)
-- [ ] Reemplazar la puerta de la celda de contención (Venom la abolladura en el último entrenamiento)
-- [ ] Reabastecer la enfermería (Joker usó todos los vendajes en "un proyecto personal")
+- [ ]  Reparar la compuerta 7 del nivel 5 (atascada desde el último simulacro de evacuación)
+- [ ]  Actualizar el firmware de las torretas — Brainiac reportó una vulnerabilidad
+- [ ]  Revisar ventilación del nivel 3 (olor a azufre en el laboratorio de Doom)
+- [ ]  Reemplazar la puerta de la celda de contención (Venom la abolladura en el último entrenamiento)
+- [ ]  Reabastecer la enfermería (Joker usó todos los vendajes en "un proyecto personal")
 
 ## Rutas de escape
 
-| Ruta                       | Destino                      | Tiempo       | Responsable                         |
-| -------------------------- | ---------------------------- | ------------ | ----------------------------------- |
-| Submarinos (nivel 5)       | Aguas internacionales        | 20 min       | Lex Luthor                          |
+
+| Ruta                        | Destino                      | Tiempo       | Responsable                         |
+| --------------------------- | ---------------------------- | ------------ | ----------------------------------- |
+| Submarinos (nivel 5)        | Aguas internacionales        | 20 min       | Lex Luthor                          |
 | Plataforma aérea (nivel 1) | Isla de respaldo "Isla Nula" | 45 min       | Magneto                             |
-| Túnel subterráneo          | Costa este de la isla        | 10 min a pie | Cualquiera                          |
-| Teletransportación de Doom | Latveria                     | Instantáneo  | Doctor Doom (limitado a 3 personas) |
+| Túnel subterráneo         | Costa este de la isla        | 10 min a pie | Cualquiera                          |
+| Teletransportación de Doom | Latveria                     | Instantáneo | Doctor Doom (limitado a 3 personas) |
 
 ---
 
