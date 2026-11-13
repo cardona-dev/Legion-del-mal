@@ -5,7 +5,7 @@
 
 ## ¿Quiénes somos?
 
-Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo.
+Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo. y ademas somos millonarios
 
 ## Estructura de la organización
 
@@ -19,12 +19,13 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 
 ## El Consejo de Villanos
 
-| Rango                     | Miembro    | Rol                                                     |
-| ------------------------- | ---------- | ------------------------------------------------------- |
-| 🥇 Líder supremo          | Lex Luthor | Fundador, financista y estratega principal              |
-| 🥈 Segundo al mando       | Magneto    | Estratega militar y reclutamiento de mutantes           |
-| 🥉 Jefa de infiltración   | Mystique   | Espionaje, identidades falsas y operaciones encubiertas |
-| ⚙️ Director de tecnología | Brainiac   | Sistemas, armamento y recopilación de datos             |
+
+| Rango                        | Miembro    | Rol                                                     |
+| ---------------------------- | ---------- | ------------------------------------------------------- |
+| 🥇 Líder supremo            | Lex Luthor | Fundador, financista y estratega principal              |
+| 🥈 Segundo al mando          | Magneto    | Estratega militar y reclutamiento de mutantes           |
+| 🥉 Jefa de infiltración     | Mystique   | Espionaje, identidades falsas y operaciones encubiertas |
+| ⚙️ Director de tecnología | Brainiac   | Sistemas, armamento y recopilación de datos            |
 
 ## Miembros activos (campo)
 
