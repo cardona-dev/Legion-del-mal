@@ -25,7 +25,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 | 🥇 Líder supremo            | Lex Luthor | Fundador, financista y estratega principal              |
 | 🥈 Segundo al mando          | Magneto    | Estratega militar y reclutamiento de mutantes           |
 | 🥉 Jefa de infiltración     | Mystique   | Espionaje, identidades falsas y operaciones encubiertas |
-| ⚙️ Director de tecnología | Brainiac   | Sistemas, armamento y recopilación de datos            |
+| ⚙️ Director de tecnología | Brainiac   | Sistemas, armamento y recopilación de datos 
 
 ## Miembros activos (campo)
 
@@ -44,7 +44,8 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 3. **Los códigos de lanzamiento JAMÁS se suben al repositorio.** El que los suba será entregado a Batman.
 4. **Los fracasos se documentan.** Aprendemos de ellos para la próxima vez.
 5. **Nada de monólogos explicando el plan al héroe.** Joker, esto va especialmente por ti.
-
+6. **El código de la Legión es sagrado.** Cualquier filtración será castigada con severidad.
+7. **El humor negro es obligatorio.** Si no puedes reírte de tus propios planes, no eres digno de la Legión.
 ## Estado actual
 
 📡 **Misión activa:** Operación Banco Mundial
