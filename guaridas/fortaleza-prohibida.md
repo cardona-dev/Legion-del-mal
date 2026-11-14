@@ -3,7 +3,11 @@
 **Código:** GFP-01
 **Ubicación:** Interior de un volcán en una isla no cartografiada, Océano Pacífico Sur
 **Responsable:** Lex Luthor
+<<<<<<< Updated upstream
 **Estado:** 🔴 Atacante
+=======
+**Estado:** 🟢 Pasiva
+>>>>>>> Stashed changes
 
 ---
 
