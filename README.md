@@ -8,7 +8,7 @@
 # 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
-> — Lex Luthor, fundador
+> — Iroman, fundador
 
 ## ¿Quiénes somos?
 
