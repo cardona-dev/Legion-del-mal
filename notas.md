@@ -2,7 +2,7 @@
 
 Markdown permite escribir documentos con formato usando texto plano. Esta guía recoge las opciones compatibles con GitHub.
 
-## Índice
+## Índice simon cardona
 
 - [Encabezados](#encabezados)
 - [Énfasis](#énfasis)
