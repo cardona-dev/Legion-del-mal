@@ -9,9 +9,9 @@
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Iroman, fundador
 
-## ¿Quiénes somos?
+## ¿Quiénes somos?-local
 
-Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo. y ademas somos millonarios y tenemos recursos ilimitados para llevar a cabo nuestros planes de dominación mundial.
+Somos la alianza definitiva desupervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo. y ademas somos millonarios y tenemos recursos ilimitados para llevar a cabo nuestros planes de dominación mundial.
 
 ## Estructura de la organización
 
