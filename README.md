@@ -5,8 +5,7 @@
 ![Último commit](https://img.shields.io/github/last-commit/cardona-dev/legion-del-mal)
 ![Licencia](https://img.shields.io/github/license/cardona-dev/legion-del-mal?cacheSeconds=60)
 
-# 🦹‍♂️ La Legión del Mal desde remoto
-
+# 🦹‍♂️ La Legión del Mal desde local y remoto
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Iroman, fundador
 
@@ -32,7 +31,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 | 🥇 Líder supremo            | Lex Luthor | Fundador, financista y estratega principal              |
 | 🥈 Segundo al mando          | Magneto    | Estratega militar y reclutamiento de mutantes           |
 | 🥉 Jefa de infiltración     | Mystique   | Espionaje, identidades falsas y operaciones encubiertas |
-| ⚙️ Director de tecnología | Brainiac   | Sistemas, armamento y recopilación de datos 
+| ⚙️ Director de tecnología | Brainiac   | Sistemas, armamento y recopilación de datos            |
 
 ## Miembros activos (campo)
 
@@ -53,6 +52,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 5. **Nada de monólogos explicando el plan al héroe.** Joker, esto va especialmente por ti.
 6. **El código de la Legión es sagrado.** Cualquier filtración será castigada con severidad.
 7. **El humor negro es obligatorio.** Si no puedes reírte de tus propios planes, no eres digno de la Legión.
+
 ## Estado actual
 
 📡 **Misión activa:** Operación Banco Mundial
